@@ -1,0 +1,14 @@
+SMAP
+query5_jsp.java
+JSP
+*S JSP
+*F
++ 0 query5.jsp
+query5.jsp
+*L
+5,10:45
+15,2:56
+16,14:58
+30:72,3
+31,9:75
+*E
